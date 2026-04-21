@@ -10,7 +10,7 @@ The app requests access to your camera and photo library solely to scan book pag
 
 We do not use any analytics, advertising, or third-party SDKs.
 
-## Support
+# Support
 
 For help, feedback, or bug reports, email us at:
 
